@@ -1,37 +1,27 @@
 ## Rust系统开发高级实验班
 即将开班，敬请期待！
 
+### 培训目标
+
+### 适合人群
+有半年以上编程经验或者计算机相关专业大三大四学生，或在职开发人员。
+
 ### 课程大纲
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* 课程分为 "基础-进阶-高级" 3个部分，共3周（21课时），每个部分理论讲解4课时+项目实训3课时
+* 三周的内容安排由浅入深，每周由一位老师负责，每个阶段的学习目标达成后，方可进入下一个阶段学习。
 
 ### 师资团队
+* Arch老师
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rustedu/rustedu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* 罗林老师
+
+* 任成珺老师
 
 ### 开班计划
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* 第2期计划开班时间 3.15-4.2 ，共3周，每周7课时，合计21课时。
+* 本期培训计划招生20人，全线上互动教学。
+* 每周3次课，周二周四晚8点-10点，偏重理论，周六晚7点-10点，偏重实践。
 
-### 收费规则
+### 培训费用
 
