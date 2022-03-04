@@ -1,7 +1,7 @@
 lang: zh_CN
 theme: jekyll-theme-architect
-title: Rust培训
-description: Rust系统开发高级实验班
+title: 阿图教育
+description: 致力于做中国最好的Rust培训品牌
 show_downloads: false
 github:
   is_project_page: false
